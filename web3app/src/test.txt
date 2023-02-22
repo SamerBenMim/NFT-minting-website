@@ -1,0 +1,5 @@
+
+-Deployer un Erc-721 sur le testnet de polygon.
+
+-Une simple interface en React pour pouvoir mint un NFT.
+
